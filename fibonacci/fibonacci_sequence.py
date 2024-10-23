@@ -1,4 +1,6 @@
 import fibonacci
+
+
 def fib_seq(n):
     if n == 0:
         return [0]
